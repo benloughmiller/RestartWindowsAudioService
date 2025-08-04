@@ -24,7 +24,7 @@ Script Steps:
 
 If there are any issues while restarting a service, the script will notify the user before closing with an error. Otherwise, it will notify that the services were restarted successfully before closing.
 
-## To Run the Script
+## Running the Script
 1. Download the (`restart-audio-service.ps1`) file
 2. Right click on the file and select **Run with PowerShell** in the context menu that opens
 3. The script will restart itself if it is not run as admin. Approve the file script to run as an admin
